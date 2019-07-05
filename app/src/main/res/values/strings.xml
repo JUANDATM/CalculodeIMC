@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VeranoAplicacion_2</string>
+    <string name="Hola">Hello World!</string>
+    <string name="Calculo_imc">"CALCULATE OF IMC "</string>
+    <string name="ALTURA">Hight (Mt)</string>
+    <string name="Peso">Weigth (KG)</string>
+    <string name="Calcular">Calculate</string>
+</resources>

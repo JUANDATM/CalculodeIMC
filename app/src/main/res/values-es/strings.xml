@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VeranoAplicacion_2</string>
+    <string name="Hola">Hola Mundo!</string>
+    <string name="Peso">Peso (KG)</string>
+    <string name="ALTURA">Altura (Mt)</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Calculo_imc">CALCULO DE IMC</string>
+</resources>
